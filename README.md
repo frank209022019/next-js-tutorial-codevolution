@@ -1,5 +1,7 @@
 ## Next.js 14 Tutorial for Beginners
 
+[Next.js 14 Tutorial - YouTube](https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI&index=1&pp=iAQB)
+
 This repository accompanies a video series on Next.js 14 for beginners, created by Vishwas. The series aims to guide you from a beginner to an expert in Next.js development.
 
 ### Getting Started
